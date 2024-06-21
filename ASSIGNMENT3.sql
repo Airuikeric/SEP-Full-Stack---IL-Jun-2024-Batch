@@ -225,3 +225,9 @@ JOIN (
 -- 11. How do you remove the duplicates record of a table?
 -- To remove duplicate records from a table using a CTE, 
 -- I can utilize the ROW_NUMBER() window function to identify duplicates and then delete the excess rows. 
+
+-- varchar vs nvarchar
+-- 	Storage: VARCHAR uses 1 byte per character, while NVARCHAR uses 2 bytes per character.
+--	Usage: VARCHAR for non-Unicode data, NVARCHAR for Unicode data.
+--	Capacity: VARCHAR can store up to 8,000 bytes (non-MAX), NVARCHAR can store up to 4,000 characters (non-MAX).
+--	Performance: VARCHAR is generally more efficient for non-Unicode data, NVARCHAR is necessary for internationalization support.

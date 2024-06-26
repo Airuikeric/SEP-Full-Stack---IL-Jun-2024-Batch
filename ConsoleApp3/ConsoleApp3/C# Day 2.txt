@@ -1,0 +1,35 @@
+Encapulation: hide data implementation; flexibility
+
+Constructor:
+1. Constructor is a special method that has same name as the clas name and does not have nay return type
+2. It is used to create an object of the class and initialized the class members.
+3. f there's no  constructor in the class, c# compiler will provide a default constructor and it parameters
+4. Constructor can be overloaded which means method cna have the same name but difference parameter
+5. Constrcutoer cannot be inheried. so a constructor cannot be overriden.
+6. byu default a dervied class constructor will make a call to a base class constructor.
+
+Inheritance: allows one class to inherit from another existing class so that the derviced class can reuse, extend 
+the code from base class.
+In c#, we have single inheritance. 
+
+Employee Management System
+Full time employee: biweekly pay, benefits
+Part time employee: hourly pay, 
+In common: id, name, phone, email, address; perform work
+
+Abstract class: means we can not create any instance out of this class; it can contain both abstract and concrete method.
+
+if you want to override the method in the derived class, the method in the base class has to be either abstact class or vitrual class
+
+A sealed class is a class that cannot have any child classes.
+
+polymorphism: many forms
+
+1. Method Overriding:happens between base class and derived class, we have same method signature including the 
+ex modifier, method name and input/output params ; and we will give different implementationfor the smae method
+
+2. Method OverLoading: happens in the same class; they have smae method name, access moifiers but they may have different input/output parameters.
+
+
+
+

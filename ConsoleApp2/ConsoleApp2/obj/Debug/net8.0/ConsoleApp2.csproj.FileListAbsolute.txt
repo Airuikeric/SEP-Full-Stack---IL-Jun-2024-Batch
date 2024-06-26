@@ -1,0 +1,15 @@
+/Users/huajianchen/Desktop/Antra/ConsoleApp2/ConsoleApp2/bin/Debug/net8.0/ConsoleApp2
+/Users/huajianchen/Desktop/Antra/ConsoleApp2/ConsoleApp2/bin/Debug/net8.0/ConsoleApp2.deps.json
+/Users/huajianchen/Desktop/Antra/ConsoleApp2/ConsoleApp2/bin/Debug/net8.0/ConsoleApp2.runtimeconfig.json
+/Users/huajianchen/Desktop/Antra/ConsoleApp2/ConsoleApp2/bin/Debug/net8.0/ConsoleApp2.dll
+/Users/huajianchen/Desktop/Antra/ConsoleApp2/ConsoleApp2/bin/Debug/net8.0/ConsoleApp2.pdb
+/Users/huajianchen/Desktop/Antra/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huajianchen/Desktop/Antra/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.AssemblyInfoInputs.cache
+/Users/huajianchen/Desktop/Antra/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.AssemblyInfo.cs
+/Users/huajianchen/Desktop/Antra/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.csproj.CoreCompileInputs.cache
+/Users/huajianchen/Desktop/Antra/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.sourcelink.json
+/Users/huajianchen/Desktop/Antra/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.dll
+/Users/huajianchen/Desktop/Antra/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/refint/ConsoleApp2.dll
+/Users/huajianchen/Desktop/Antra/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.pdb
+/Users/huajianchen/Desktop/Antra/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.genruntimeconfig.cache
+/Users/huajianchen/Desktop/Antra/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ref/ConsoleApp2.dll

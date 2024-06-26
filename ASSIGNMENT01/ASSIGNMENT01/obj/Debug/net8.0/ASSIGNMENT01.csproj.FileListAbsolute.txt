@@ -1,0 +1,15 @@
+/Users/huajianchen/Desktop/Antra/ASSIGNMENT01/ASSIGNMENT01/bin/Debug/net8.0/ASSIGNMENT01
+/Users/huajianchen/Desktop/Antra/ASSIGNMENT01/ASSIGNMENT01/bin/Debug/net8.0/ASSIGNMENT01.deps.json
+/Users/huajianchen/Desktop/Antra/ASSIGNMENT01/ASSIGNMENT01/bin/Debug/net8.0/ASSIGNMENT01.runtimeconfig.json
+/Users/huajianchen/Desktop/Antra/ASSIGNMENT01/ASSIGNMENT01/bin/Debug/net8.0/ASSIGNMENT01.dll
+/Users/huajianchen/Desktop/Antra/ASSIGNMENT01/ASSIGNMENT01/bin/Debug/net8.0/ASSIGNMENT01.pdb
+/Users/huajianchen/Desktop/Antra/ASSIGNMENT01/ASSIGNMENT01/obj/Debug/net8.0/ASSIGNMENT01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huajianchen/Desktop/Antra/ASSIGNMENT01/ASSIGNMENT01/obj/Debug/net8.0/ASSIGNMENT01.AssemblyInfoInputs.cache
+/Users/huajianchen/Desktop/Antra/ASSIGNMENT01/ASSIGNMENT01/obj/Debug/net8.0/ASSIGNMENT01.AssemblyInfo.cs
+/Users/huajianchen/Desktop/Antra/ASSIGNMENT01/ASSIGNMENT01/obj/Debug/net8.0/ASSIGNMENT01.csproj.CoreCompileInputs.cache
+/Users/huajianchen/Desktop/Antra/ASSIGNMENT01/ASSIGNMENT01/obj/Debug/net8.0/ASSIGNMENT01.sourcelink.json
+/Users/huajianchen/Desktop/Antra/ASSIGNMENT01/ASSIGNMENT01/obj/Debug/net8.0/ASSIGNMENT01.dll
+/Users/huajianchen/Desktop/Antra/ASSIGNMENT01/ASSIGNMENT01/obj/Debug/net8.0/refint/ASSIGNMENT01.dll
+/Users/huajianchen/Desktop/Antra/ASSIGNMENT01/ASSIGNMENT01/obj/Debug/net8.0/ASSIGNMENT01.pdb
+/Users/huajianchen/Desktop/Antra/ASSIGNMENT01/ASSIGNMENT01/obj/Debug/net8.0/ASSIGNMENT01.genruntimeconfig.cache
+/Users/huajianchen/Desktop/Antra/ASSIGNMENT01/ASSIGNMENT01/obj/Debug/net8.0/ref/ASSIGNMENT01.dll

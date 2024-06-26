@@ -1,0 +1,65 @@
+
+Category of types:
+1.Built-in types:
+    Signed types: +/-
+    Unsigned types: +
+2.User defined types 
+
+Object type: is a base type for all other types in C#
+
+Another Categorization of types:
+
+1. Value type
+2. Reference type 
+
+value type vs reference type:
+1. Value type will directly hold the value while reference type will hold the memory address or reference for the value. 
+2. Value types are stored in stack memory and reference types are stored in heap memory. 
+3. Value type will not be collected by garbage collector but reference type will be collected by garbage collector. 
+4. The value type can be created by struct or enum while reference type can be created by class, interface, delegate or array.
+5. Value type can not accept any null values while reference types can accept null values.
+
+CLR: Common Language Runtime 
+
+Two parts in Heap memory: 
+Managed heap: 
+Unmanaged heap: database connection, file transmission,etc; clear manually by calling 
+
+Garbage collector --> Managed heap memory---> is divided into three generations: 0, 1, 2
+
+Enum: Enumeration ; value type 
+Enum is used when the value is known, small and specific
+
+Methods sytax:
+
+[Access Modifiers] ReturnType MethodName([Formal Parameters]){
+
+}
+
+Access Modifiers:
+
+1. Public: members can be accessed anywhere.
+2. Private: members can be accessed only in a current class.
+3. Protected: members can be accessed in current class and children classes
+4. Internal: members can be accessed in the current assembly. 
+
+An assembly is a compiled unit of executable code. When project compiles, it turns into an assembly which will in turn become
+a .dll file or .exe file. 
+
+Parameters:
+
+1. Pass by value: a copy of the actual parameter is created and passed to the formal parameters; default mode 
+2. Pass by reference: a reference of the actual parameter is passed to the formal parameters; as a result any change in formal parameters 
+                      will also be reflected in actual parameters
+3.Optional Parameters: it will allow you to define the default values for method paramters. 
+4. Out mode: is used when you want to return more than one value from a single method
+5. Params: when we pass parameters of the same type but with variable length
+
+Boxing and Unboxing: 
+
+Boxing is conversion of value type to reference type and unboxing is conversion of referece type to value type. 
+
+ref vs out:
+
+1. We have to initalize the value first for ref; we do not need to necessarily initalize the value for out mode
+2. Both are pass by reference since both of them will change the actual value of the variable. 
